@@ -32,7 +32,7 @@ cutout
 ```
 python main_Cutout.py
 ```
-#model
+# Model
 链接：https://pan.baidu.com/s/19Eta7c7J-oD4GLYEK4O3fQ 
 提取码：glpq 
 复制这段内容后打开百度网盘手机App，操作更方便哦
