@@ -1,7 +1,7 @@
 # Author
 陈鸿旭 20110980002：报告  
-李进之 20110980006：cutout可视化
-员司雨 17307110448：cutmix和mixup算法
+李进之 20110980006：cutout和可视化  
+员司雨 17307110448：cutmix和mixup算法  
 # Introduction
 DATA620004——神经网络和深度学习 期末project
 对比cutmix, cutout, mixup三种方法以及baseline方法在CIFAR-10或CIFAR-100图像分类任务中的性能表现。  
