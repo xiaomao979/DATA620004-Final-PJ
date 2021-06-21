@@ -1,5 +1,9 @@
+# Author
+陈鸿旭 20110980002
+李进之 20110980006
+员司雨 17307110448
 # Introduction
-DATA130051.01——计算机视觉 和 DATA620004——神经网络和深度学习 期末project
+DATA620004——神经网络和深度学习 期末project
 对比cutmix, cutout, mixup三种方法以及baseline方法在CIFAR-10或CIFAR-100图像分类任务中的性能表现。  
 
 mixup: https://arxiv.org/pdf/1710.09412v2.pdf 
